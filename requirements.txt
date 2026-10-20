@@ -1,0 +1,8 @@
+kivy==2.3.1
+kivymd==2.0.0
+pymupdf==1.28.2
+opencv-python-headless==5.0.0.93
+numpy==2.5.3
+# Question papers are read with PaddleOCR (required)
+paddlepaddle
+paddleocr

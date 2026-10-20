@@ -1,0 +1,7 @@
+venv/
+**/__pycache__/
+*.pyc
+reports/*.pdf
+MVCSAnswers/*.pdf
+question_paper/*.pdf
+.env
